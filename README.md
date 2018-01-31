@@ -8,7 +8,7 @@
 ![ideacion](assets/docs/ideacion.png)
 
 
-##DESCUBRIMIENTO E INVESTIGACIÓN
+## DESCUBRIMIENTO E INVESTIGACIÓN
 
 ### Planeamiento
 
