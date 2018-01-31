@@ -12,7 +12,7 @@
 
 ### Planeamiento
 
-Presentación de Kick Off y conversaciones en el Squad para poder analizar cuáles serían las metodologías a usar para el reto asiganado.
+Presentación de Kick Off y conversaciones en el Squad para poder analizar cuáles serían las metodologías a usar para el reto asignado.
 
 ### User Research
 
