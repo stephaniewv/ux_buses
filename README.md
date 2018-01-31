@@ -45,7 +45,7 @@ Posteriormente, el equipo comenzó a realizar las **entrevistas** a personas est
 
 ![entrevista](assets/docs/entrevista1.jpeg)
 
-*Es importante mencionar que en el proceso se obtuvo muchos *bloqueantes por parte de la seguridad de los terminales, quienes indicaban que se tenía que pedir permiso a la administración como mínimo de un día antes por lo que en muchos casos interrumpieron abruptamente la entrevista con los usuarios. Sin embargo, aún así el equipo se las ingenio para seguir realizando las entrevistas de una manera más discreta.
+###### Es importante mencionar que en el proceso se obtuvo muchos bloqueantes por parte de la seguridad de los terminales, quienes indicaban que se tenía que pedir permiso a la administración como mínimo de un día antes por lo que en muchos casos interrumpieron abruptamente la entrevista con los usuarios. Sin embargo, aún así el equipo se las ingenio para seguir realizando las entrevistas de una manera más discreta.
 
 
 Al promediar las 16:00 horas, el equipo se junto en el domicilio de la integrante Stephanie Wong con la finalidad de compartir sus experiencias durante el trabajo de campo, darse feedbacks sobre lo que se hizo bien, pudo haber sido mejor y como cada una hubiera abordado la situación.
