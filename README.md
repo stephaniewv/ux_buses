@@ -28,7 +28,7 @@ El squad se dividió en dos equipos:
 ###### Equipo A: Terminal Terrestre Plaza Norte
 
 ![equipoA](assets/docs/grupoa.jpeg)
-        
+
 ###### Equipo B: Terminal Terreste Cruz del Sur y Movil Tours
 
 ![equipoB](assets/docs/grupob.jpeg)
@@ -82,8 +82,32 @@ Con la información recaudada de las entrevistas, se define nuestro User Persona
 
 
 #### 3.- Problem Statement
-A partir de nuestro afinity map, definimos los **probemas principales** de nuestros usuarios.
 
+En la etapa de  **Affinity Mapping** se agruparon todas las observaciones de los usuarios en las siguientes categorías :
+
+- Compras
+- Dudas
+- Información
+- Preferencias
+- Reclamos
+- Recomendaciones
+- otros
+
+Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías **Información** y **Reclamos** tienen más coincidencia entre nuestros usuarios, por ellos decidimos abordar estas categorías para la obtención de nuestra problemática.
+
+#### Problematica sobre la información
+
+"He buscado en muchas páginas de internet, pero no encuentro información sobre qué buses debo tomar..."
+"No encuentro información actualizada"
+"Pierdo mucho tiempo buscando información de los lugares"
+"Pido recomendaciones a mis amigos y familiares sobre buses y lugar a los que voy"
+"Realizo mis búsquedas en foros"
+
+Estos son algunos comentarios que hicieron los usuarios en las entrevistas.
+
+También encontramos esta problemática en algunos foro de internet
+
+![example-web](assets/docs/foro-problema-info.png)
 
 (PENDIENTE UTILIZAR METODOLOGIA "HOW MIGHT WE?")
 
@@ -109,5 +133,3 @@ A partir de nuestro afinity map, definimos los **probemas principales** de nuest
 
 
 "La última y mejor experiencia que alguien tiene en cualquier lugar se convierte en la expectativa mínima de las experiencias que desean en todas partes."
-
-
