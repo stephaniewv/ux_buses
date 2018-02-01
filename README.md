@@ -64,6 +64,13 @@ Para esta fase del proceso se usaron las siguientes herramientas:
 
 - Google form
 
+## SINTESIS Y DEFINICIÓN
+
+### Affinity Mapping
+
+Durante las horas de clases, y con la orientación de nuestros profesores Gonzalo Loayza y Gabriela Segura, se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los problemas según su categoría.
+
+![affinity](assets/docs/affinity.jpg)
 
 ### **Integrantes**
 
