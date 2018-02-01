@@ -95,19 +95,21 @@ En la etapa de  **Affinity Mapping** se agruparon todas las observaciones de los
 
 Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías **Información** y **Reclamos** tienen más coincidencia entre nuestros usuarios, por ellos decidimos abordar estas categorías para la obtención de nuestra problemática.
 
-#### Problematica sobre la información
+#### Problemática sobre la información
 
-"He buscado en muchas páginas de internet, pero no encuentro información sobre qué buses debo tomar..."
-"No encuentro información actualizada"
-"Pierdo mucho tiempo buscando información de los lugares"
-"Pido recomendaciones a mis amigos y familiares sobre buses y lugar a los que voy"
-"Realizo mis búsquedas en foros"
+- "He buscado en muchas páginas de internet, pero no encuentro información sobre qué buses debo tomar..."
+- "No encuentro información actualizada"
+- "Pierdo mucho tiempo buscando información de los lugares"
+- "Pido recomendaciones a mis amigos y familiares sobre buses y lugar a los que voy"
+- "Realizo mis búsquedas en foros"
 
 Estos son algunos comentarios que hicieron los usuarios en las entrevistas.
 
 También encontramos esta problemática en algunos foro de internet
 
 ![example-web](assets/docs/foro-problema-info.png)
+
+#### Problemática sobre los reclamos 
 
 (PENDIENTE UTILIZAR METODOLOGIA "HOW MIGHT WE?")
 
