@@ -64,6 +64,8 @@ Para esta fase del proceso se usaron las siguientes herramientas:
 
 - Google form
 
+![encuesta](assets/docs/encuesta.png)
+
 ## SINTESIS Y DEFINICIÓN
 
 ### SINTESIS
