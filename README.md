@@ -50,7 +50,7 @@ Posteriormente, el equipo comenzó a realizar las **entrevistas** a personas est
 
 Al promediar las 16:00 horas, el equipo se junto en el domicilio de la integrante Stephanie Wong con la finalidad de compartir sus experiencias durante el trabajo de campo, darse feedbacks sobre lo que se hizo bien, pudo haber sido mejor y como cada una hubiera abordado la situación.
 
-Ya con los datos comparados, el equipo procede a contactarse con otros usuarios más cercano con la finalidad de tener un espacio más cómodo para una segunda entrevista.
+Ya con los datos comparados, el equipo procede a contactarse con otros usuarios más cercanos, con la finalidad de tener un espacio más cómodo para una segunda entrevista.
 
 
 *PENDIENTE ADJUNTAR + FOTOS*
@@ -62,7 +62,7 @@ Se realiza las **encuestas** que serán enviadas a familiares y amigos a través
 
 Para esta fase del proceso se usaron las siguientes herramientas:
 
-- Survey Monkey
+- Google form
 
 
 ### **Integrantes**
