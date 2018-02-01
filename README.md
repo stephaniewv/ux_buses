@@ -66,11 +66,35 @@ Para esta fase del proceso se usaron las siguientes herramientas:
 
 ## SINTESIS Y DEFINICIÓN
 
-### Affinity Mapping
+### SINTESIS
+
+#### 1.- Affinity Mapping
 
 Durante las horas de clases, y con la orientación de nuestros profesores Gonzalo Loayza y Gabriela Segura, se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los problemas según su categoría.
 
 ![affinity](assets/docs/affinity.jpg)
+
+##### Día 3 : DEFINICIÓN DEL PROBLEMA
+
+#### 2.- User Persona
+
+Con la información recaudada de las entrevistas, se define nuestro User Persona. (PENDIENTE ADJUNTAR DATOS)
+
+
+#### 3.- Problem Statement
+A partir de nuestro afinity map, definimos los **probemas principales** de nuestros usuarios.
+
+
+(PENDIENTE UTILIZAR METODOLOGIA "HOW MIGHT WE?")
+
+
+### DEFINICION
+
+#### 1.- Priorización
+
+
+
+
 
 ### **Integrantes**
 
