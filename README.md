@@ -124,6 +124,19 @@ También encontramos esta problemática en algunos foro de internet
 
 
 
+
+#### Análisis Competitivo
+
+Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.
+
+Para esto utilizamos la técnica **Thinking Aloud Testing**
+
+Definición : En una prueba de pensamiento en voz alta, se pide a los participantes que usen el sistema mientras que continuamente piensan en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.
+
+- Nuestra participante realizó la prueba en la interfaz de la aplicación Red Bus:
+
+Video: [video1](https://drive.google.com/file/d/1c1ewF5pY5lNjwVpea0DtB4yeh0WMUImb/view)
+
 ### **Integrantes**
 
 >##### Esthefany Humpiri Vargas
