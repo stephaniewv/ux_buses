@@ -76,16 +76,7 @@ Durante las horas de clases, y con la orientación de nuestros profesores Gonzal
 
 ![affinity](assets/docs/affinity.jpg)
 
-##### Día 3 : DEFINICIÓN DEL PROBLEMA
-
-#### 2.- User Persona
-
-Con la información recaudada de las entrevistas, se define nuestro User Persona. (PENDIENTE ADJUNTAR DATOS)
-
-
-#### 3.- Problem Statement
-
-En la etapa de  **Affinity Mapping** se agruparon todas las observaciones de los usuarios en las siguientes categorías :
+Se agruparon todas las observaciones de los usuarios en las siguientes categorías :
 
 - Compras
 - Dudas
@@ -111,19 +102,37 @@ También encontramos esta problemática en algunos foro de internet
 
 ![example-web](assets/docs/foro-problema-info.png)
 
-#### Problemática sobre los reclamos 
 
-(PENDIENTE UTILIZAR METODOLOGIA "HOW MIGHT WE?")
+##### Día 3 : 
 
+#### 2.- User Persona
+
+Con la información recaudada de las entrevistas, se define nuestro User Persona. 
+
+![user](assets/docs/user.png)
+
+
+
+#### 3.- Problem Statement
+
+Usamos el siguiente patrón para definir un problema:
+
+![problem](assets/docs/problemstatements.png)
+
+
+#### 4.- How Might We? (HMW)
+
+![problem](assets/docs/hmw.png)
+
+#### 5.- What if? (HMW)
+
+![problem](assets/docs/whatif.png)
 
 ### DEFINICION
 
 #### 1.- Priorización
 
-
-
-
-
+POR CORREGIR
 
 #### Análisis Competitivo
 
