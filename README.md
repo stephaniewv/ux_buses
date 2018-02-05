@@ -184,9 +184,7 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-3.png)
 
 
-**Más Información**
 
-[URL](https://metricspot.com/app/)
 
 
 
@@ -208,9 +206,7 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-3.png)
 
 
-**Más Información**
 
-[URL](https://metricspot.com/app/)
 
 
 
@@ -232,9 +228,7 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-3.png)
 
 
-**Más Información**
 
-[URL](https://metricspot.com/app/)
 
 
 #### Priorización
