@@ -137,7 +137,18 @@ Sabemos que el principal problema de nuestro usuario es la información ¿Cómo 
 
 #### Priorización
 
-POR CORREGIR
+![priorizar](assets/docs/priorizar.png)
+
+Luego de observar la información recogida y analizados nuestros Problem Statements, se prioriza lo descubierto (**falta de información**)
+
+
+#### MVP
+
+Nuestro producto mínimo viable debe contener lo siguiente: 
+
+#### Storyboard
+
+![story](assets/docs/story.png)
 
 #### Análisis Competitivo
 
