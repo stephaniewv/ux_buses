@@ -128,9 +128,14 @@ Usamos el siguiente patrón para definir un problema:
 
 ![problem](assets/docs/whatif.png)
 
-### DEFINICION
+##### Día 4 : Conceptualización
 
-#### 1.- Priorización
+### 1. Feature List
+
+#### Benchmark: 
+Sabemos que el principal problema de nuestro usuario es la información ¿Cómo lo resolvieron otras empresas?
+
+#### Priorización
 
 POR CORREGIR
 
