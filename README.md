@@ -168,14 +168,56 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 
 #### 1. Analisis Web de **https://www.redbus.pe/**
 
+
 **Análisis Web**
 
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-1.png)
 
+
+**Datos Históricos**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-2.png)
+
+
+**Impacto en Redes Sociales**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-3.png)
+
+
 #### 2. Analisis Web de **https://www.recorrido.cl/es**
+
+
+**Análisis Web**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-1.png)
+
+
+**Datos Históricos**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-2.png)
+
+
+**Impacto en Redes Sociales**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-3.png)
+
 
 #### 3. Analisis Web de **https://www.clickbus.com.mx/es/**
 
+
+**Análisis Web**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-1.png)
+
+
+**Datos Históricos**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-2.png)
+
+
+**Impacto en Redes Sociales**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-3.png)
 
 
 
