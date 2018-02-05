@@ -39,9 +39,13 @@ Se realizó una **observación contextual** dentro del terminales de autobuses p
 
 - Los usuarios que esperaban abordar miraban aburridos en todas las direcciones o caso contrario sus celulares.
 
+![pasajeros](https://lh3.googleusercontent.com/i1Q6VWpGfZgjXbTcTQORJivQeFswFjBsJ2Zv4VQ7quAgjye_qqElzfDHz3YGXQhCK9UItQiJpYr8ecHZSV2f=w1366-h637-rw)
+
 - Algunos usuarios parecían nerviosos y estaban muy atentos para tener cuidado en no dejar pasar su autobus.
 
 Posteriormente, el equipo comenzó a realizar las **entrevistas** a personas estaban haciendo fila para la compra de pasajes o esperaban abordar.
+
+![pasajeros](https://lh5.googleusercontent.com/FPgTR7kOAtH1dA8LSwGFTP-zzhTL20wahinLLbiNMA7N-_qiyJGmZCIqPyHbXMsS02oJT7utPcvhCj9C9gFv=w1366-h637-rw)
 
 ![entrevista](assets/docs/entrevista1.jpeg)
 
@@ -132,9 +136,8 @@ Usamos el siguiente patrón para definir un problema:
 
 ### 1. Feature List
 
-#### Benchmark: 
+### Benchmark: 
 Sabemos que el principal problema de nuestro usuario es la información ¿Cómo lo resolvieron otras empresas?
-
 #### Análisis Competitivo
 
 Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.
@@ -143,9 +146,23 @@ Para esto utilizamos la técnica **Thinking Aloud Testing**
 
 Definición : En una prueba de pensamiento en voz alta, se pide a los participantes que usen el sistema mientras que continuamente piensan en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.
 
-- Nuestra participante realizó la prueba en la interfaz de la aplicación Red Bus:
+- Nuestra participante realizó la prueba en la interfaz de la aplicación **Red Bus**:
 
-Video: [video1](https://drive.google.com/file/d/1c1ewF5pY5lNjwVpea0DtB4yeh0WMUImb/view)
+![img](https://cdn6.aptoide.com/imgs/7/6/0/7609b9f71c6be8d711684a1577644c85_icon.png?w=128)
+
+[Video](https://drive.google.com/open?id=14ZBSrJp0GwIgVZRArCLxXCkFwnls6Y-N)
+
+#### Análisis Comparativo 
+
+
+| ***Web Site*** | Fácil de usar | Recomienda Destinos | Información | Filtrado | Compra Online | Reservar Tickets |
+| -- | -- | -- | -- | -- | -- | -- |
+| [Red Bus](https://www.redbus.pe/) | ✔ | ✘ | ✘ | ✔  | ✔ | ✘ |
+| Recorrido.cl| ✘  | ✘  | ✘ | ✔  | ✔ | ✘ |
+| [Click Bus](https://www.clickbus.com.mx/es/) | ✘ | ✘ | ✔ | ✔ | ✔ | ✘ |
+
+
+
 
 #### Priorización
 
