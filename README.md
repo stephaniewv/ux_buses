@@ -39,13 +39,13 @@ Se realizó una **observación contextual** dentro del terminales de autobuses p
 
 - Los usuarios que esperaban abordar miraban aburridos en todas las direcciones o caso contrario sus celulares.
 
-![pasajeros](https://lh3.googleusercontent.com/i1Q6VWpGfZgjXbTcTQORJivQeFswFjBsJ2Zv4VQ7quAgjye_qqElzfDHz3YGXQhCK9UItQiJpYr8ecHZSV2f=w1366-h637-rw)
+![pasajeros](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/pasajeros02.jpg?raw=true)
 
 - Algunos usuarios parecían nerviosos y estaban muy atentos para tener cuidado en no dejar pasar su autobus.
 
 Posteriormente, el equipo comenzó a realizar las **entrevistas** a personas estaban haciendo fila para la compra de pasajes o esperaban abordar.
 
-![pasajeros](https://lh5.googleusercontent.com/FPgTR7kOAtH1dA8LSwGFTP-zzhTL20wahinLLbiNMA7N-_qiyJGmZCIqPyHbXMsS02oJT7utPcvhCj9C9gFv=w1366-h637-rw)
+![pasajeros](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/pasajeros01.jpg?raw=true)
 
 ![entrevista](assets/docs/entrevista1.jpeg)
 
@@ -158,7 +158,7 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 | ***Web Site*** | Fácil de usar | Recomienda Destinos | Información | Filtrado | Compra Online | Reservar Tickets |
 | -- | -- | -- | -- | -- | -- | -- |
 | [Red Bus](https://www.redbus.pe/) | ✔ | ✘ | ✘ | ✔  | ✔ | ✘ |
-| Recorrido.cl| ✘  | ✘  | ✘ | ✔  | ✔ | ✘ |
+| [Recorrido.cl](https://www.recorrido.cl/es) | ✘  | ✘  | ✘ | ✔  | ✔ | ✘ |
 | [Click Bus](https://www.clickbus.com.mx/es/) | ✘ | ✘ | ✔ | ✔ | ✔ | ✘ |
 
 
