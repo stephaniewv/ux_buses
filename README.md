@@ -164,7 +164,7 @@ Nuestro producto mínimo viable debe contener lo siguiente:
 
 #### Content Prototype
 
-![content](assets/docs/content.png)
+![content](assets/docs/content_.png)
 
 ### **Integrantes**
 
