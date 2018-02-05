@@ -166,7 +166,7 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 
 Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analizar y tener mayor información de nuestra competencia.
 
-#### 1. Analisis Web de **https://www.redbus.pe/**
+#### 1. Análisis Web de **https://www.redbus.pe/**
 
 
 **Análisis Web**
@@ -184,7 +184,13 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-3.png)
 
 
-#### 2. Analisis Web de **https://www.recorrido.cl/es**
+**Más Información**
+
+[URL](https://metricspot.com/app/)
+
+
+
+#### 2. Análisis Web de **https://www.recorrido.cl/es**
 
 
 **Análisis Web**
@@ -202,7 +208,13 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rec-3.png)
 
 
-#### 3. Analisis Web de **https://www.clickbus.com.mx/es/**
+**Más Información**
+
+[URL](https://metricspot.com/app/)
+
+
+
+#### 3. Análisis Web de **https://www.clickbus.com.mx/es/**
 
 
 **Análisis Web**
@@ -220,6 +232,9 @@ Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analiza
 ![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/cb-3.png)
 
 
+**Más Información**
+
+[URL](https://metricspot.com/app/)
 
 
 #### Priorización
