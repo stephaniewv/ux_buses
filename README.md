@@ -107,11 +107,11 @@ También encontramos esta problemática en algunos foro de internet
 ![example-web](assets/docs/foro-problema-info.png)
 
 
-##### Día 3 : 
+##### Día 3 :
 
 #### 2.- User Persona
 
-Con la información recaudada de las entrevistas, se define nuestro User Persona. 
+Con la información recaudada de las entrevistas, se define nuestro User Persona.
 
 ![user](assets/docs/user.png)
 
@@ -136,7 +136,7 @@ Usamos el siguiente patrón para definir un problema:
 
 ### 1. Feature List
 
-### Benchmark: 
+### Benchmark:
 Sabemos que el principal problema de nuestro usuario es la información ¿Cómo lo resolvieron otras empresas?
 #### Análisis Competitivo
 
@@ -152,7 +152,7 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 
 [Video](https://drive.google.com/open?id=14ZBSrJp0GwIgVZRArCLxXCkFwnls6Y-N)
 
-#### Análisis Comparativo 
+#### Análisis Comparativo
 
 
 | ***Web Site*** | Fácil de usar | Recomienda Destinos | Información | Filtrado | Compra Online | Reservar Tickets |
@@ -160,6 +160,17 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 | [Red Bus](https://www.redbus.pe/) | ✔ | ✘ | ✘ | ✔  | ✔ | ✘ |
 | [Recorrido.cl](https://www.recorrido.cl/es) | ✘  | ✘  | ✘ | ✔  | ✔ | ✘ |
 | [Click Bus](https://www.clickbus.com.mx/es/) | ✘ | ✘ | ✔ | ✔ | ✔ | ✘ |
+
+
+#### Indicadores
+
+
+#### 1. Analisis Web de **https://www.redbus.pe/**
+
+#### 2. Analisis Web de **https://www.recorrido.cl/es**
+
+#### 3. Analisis Web de **https://www.clickbus.com.mx/es/**
+
 
 
 
@@ -173,7 +184,7 @@ Luego de observar la información recogida y analizados nuestros Problem Stateme
 
 #### MVP
 
-Nuestro producto mínimo viable debe contener lo siguiente: 
+Nuestro producto mínimo viable debe contener lo siguiente:
 
 #### Storyboard
 
