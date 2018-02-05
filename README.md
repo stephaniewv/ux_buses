@@ -164,8 +164,13 @@ Definición : En una prueba de pensamiento en voz alta, se pide a los participan
 
 #### Indicadores
 
+Se empleó la herramienta **Metricspot** *(https://metricspot.com)* para analizar y tener mayor información de nuestra competencia.
 
 #### 1. Analisis Web de **https://www.redbus.pe/**
+
+**Análisis Web**
+
+![img](https://github.com/stephaniewv/ux_buses/blob/master/assets/docs/rb-1.png)
 
 #### 2. Analisis Web de **https://www.recorrido.cl/es**
 
