@@ -250,6 +250,17 @@ Nuestro producto mínimo viable debe contener lo siguiente:
 
 ![content](assets/docs/content_.png)
 
+
+## IDEACIÓN
+
+#### Prototype
+
+Con nuestro MVP definido, se procede a realizar el prototipo.
+
+**Vista responsive en celular**
+
+![movil](assets/docs/prototype.jpeg)
+
 ### **Integrantes**
 
 >##### Esthefany Humpiri Vargas
