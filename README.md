@@ -266,6 +266,17 @@ Con nuestro MVP definido, se procede a realizar el prototipo.
 
 ![movil](assets/docs/prototype.jpeg)
 
+#### Testing
+
+Se realizaron diferentes testing con el objetivo de mejorar el proceso.
+
+![testing](assets/docs/diego.jpg)
+![testing](assets/docs/ale.jpg)
+![testing](assets/docs/noemi.jpg)
+![testing](assets/docs/gonzalo.jpg)
+![testing](assets/docs/jhonalbert.png)
+![testing](assets/docs/lulu.png)
+
 ### **Integrantes**
 
 >##### Esthefany Humpiri Vargas
