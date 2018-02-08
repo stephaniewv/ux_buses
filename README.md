@@ -277,6 +277,13 @@ Se realizaron diferentes testing con el objetivo de mejorar el proceso.
 ![testing](assets/docs/jhonalbert.png)
 ![testing](assets/docs/lulu.png)
 
+
+### CUSTOMER JOURNEY
+
+Se realiza el primer viaje del usuario **antes** de conocer nuestro producto.
+
+![customer](assets/docs/customer.jpeg)
+
 ### **Integrantes**
 
 >##### Esthefany Humpiri Vargas
