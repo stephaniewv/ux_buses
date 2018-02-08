@@ -57,8 +57,6 @@ Al promediar las 16:00 horas, el equipo se junto en el domicilio de la integrant
 Ya con los datos comparados, el equipo procede a contactarse con otros usuarios más cercanos, con la finalidad de tener un espacio más cómodo para una segunda entrevista.
 
 
-*PENDIENTE ADJUNTAR + FOTOS*
-
 
 ##### Día 2: RESEARCH CUANTITATIVO
 
@@ -241,6 +239,13 @@ Luego de observar la información recogida y analizados nuestros Problem Stateme
 #### MVP
 
 Nuestro producto mínimo viable debe contener lo siguiente:
+
+- Que pueda seleccionar un lugar para viajar según sus preferencias.
+- Que pueda realizar la compra tanto en la página como en la web de la empresa de buses.
+- Que tenga opciones de filtros según precios, valoraciones y servicios.
+- Que pueda loguearse con facebook, google y correo.
+
+Este mínimo producto viable se realizó debido a que representa lo esencial y es de bajo costo realizarlo.
 
 #### Storyboard
 
