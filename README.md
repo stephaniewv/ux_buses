@@ -315,7 +315,7 @@ Siempre tengo que llamar o preguntar varias a amigos por referencias de empresas
 
 *Ahora escoger mi destino y armar mi ruta es mucho mas fácil. Definitivamente recomendaría esta web.*
 
-
+![image]()
 
 
 ### **Integrantes**
