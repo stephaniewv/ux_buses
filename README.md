@@ -297,6 +297,25 @@ Se realiza el user flow de los portotipos de pantalla elaborados.
 
 https://projects.invisionapp.com/share/FDFTSDVS9M7#/screens/279054683
 
+### STORYTELLING
+
+Contamos la historia de nuestro user person, asi creamos un sentido de historia e identificamos como se soluciona el problema.
+
+*- Hola soy Tabatha, tengo 28 años y me encanta ahorrar para poder viajar. Conozco muchos lugares, sin embargo se que aun me falta conocer muchas ciudades de mi hermoso Perú.
+- Al momento de plantearme una nueva aventura, antes de elegir un sitio siempre me pregunto ¿Cómo llego hasta ahí?
+Un problema que siempre he tenido a sido encontrar información clara y actualizada.
+Siempre tengo que llamar o preguntar varias a amigos por referencias de empresas o pasajes antes de comprar algún pasaje o hacer alguna reserva.*
+
+*- Hace poco una amiga me recomendó una aplicación que me solucionaría la vida, tenía pocas esperanzas pero decidí probarla.*
+
+* - Encontrar Traveleando, me soluciono la vida. - risas -
+
+*- Puedo encontrar pasajes al destino que quiero.Y elegir la empresa que mas me convenga, las valoraciones de otros usuarios me ayudan mucho para poder elegir y confiar en que empresa escoger.
+*- Ahora escoger mi destino y armar mi ruta es mucho mas fácil. Definitivamente recomendaría esta web.*
+
+
+
+
 ### **Integrantes**
 
 >##### Esthefany Humpiri Vargas
