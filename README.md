@@ -288,6 +288,15 @@ Se realiza el primer viaje del usuario **después** de conocer nuestro producto.
 
 ![customer](assets/docs/viaje2.png)
 
+### USER FLOW
+
+Se realiza el user flow de los portotipos de pantalla elaborados.
+
+![customer](assets/docs/flow1.png)
+![customer](assets/docs/flow2.png)
+
+https://projects.invisionapp.com/share/FDFTSDVS9M7#/screens/279054683
+
 ### **Integrantes**
 
 >##### Esthefany Humpiri Vargas
