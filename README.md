@@ -303,13 +303,13 @@ Contamos la historia de nuestro user person, asi creamos un sentido de historia 
 
 *Hola soy Tabatha, tengo 28 años y me encanta ahorrar para poder viajar. Conozco muchos lugares, sin embargo se que aun me falta conocer muchas ciudades de mi hermoso Perú.*
 
-*Al momento de plantearme una nueva aventura, antes de elegir un sitio siempre me pregunto ¿Cómo llego hasta ahí?
+*Al momento de plantearme una nueva aventura, antes de elegir un sitio siempre me pregunto **¿Cómo llego hasta ahí?**
 Un problema que siempre he tenido a sido encontrar información clara y actualizada.
 Siempre tengo que llamar o preguntar varias a amigos por referencias de empresas o pasajes antes de comprar algún pasaje o hacer alguna reserva.*
 
 *Hace poco una amiga me recomendó una aplicación que me solucionaría la vida, tenía pocas esperanzas pero decidí probarla.*
 
-*Encontrar Traveleando, me soluciono la vida. - risas -*
+*Encontrar **Traveleando**, me soluciono la vida. - risas -*
 
 *Puedo encontrar pasajes al destino que quiero.Y elegir la empresa que mas me convenga, las valoraciones de otros usuarios me ayudan mucho para poder elegir y confiar en que empresa escoger.*
 
