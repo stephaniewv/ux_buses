@@ -284,6 +284,10 @@ Se realiza el primer viaje del usuario **antes** de conocer nuestro producto.
 
 ![customer](assets/docs/customer.jpeg)
 
+Se realiza el primer viaje del usuario **después** de conocer nuestro producto.
+
+![customer](assets/docs/viaje2.png)
+
 ### **Integrantes**
 
 >##### Esthefany Humpiri Vargas
