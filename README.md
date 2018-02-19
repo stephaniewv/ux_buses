@@ -7,8 +7,6 @@ Traveleando es una plataforma de venta y reserva de pasajes de autobús de difer
 
 ## Desarrollado para [laboratoria](https://laboratoria.la)
 
-![logo](assets/docs/logo_laboratoria.png)
-
 
 ### NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
 
